@@ -1,0 +1,503 @@
+{
+	"version": "1.0",
+	"data": 
+		[{
+				"code": 86,
+				"region": "China"
+			},
+			{
+				"code": 886,
+				"region": "Taiwan, China"
+			},
+			{
+				"code": 1,
+				"region": "United State"
+			},
+			{
+				"code": 1,
+				"region": "Canada"
+			},
+			{
+				"code": 7,
+				"region": "Russia"
+			},
+			{
+				"code": 27,
+				"region": "South Africa"
+			},
+			{
+				"code": 30,
+				"region": "Greece"
+			},
+			{
+				"code": 31,
+				"region": "Netherlands"
+			},
+			{
+				"code": 32,
+				"region": "Belgium"
+			},
+			{
+				"code": 33,
+				"region": "France"
+			},
+			{
+				"code": 34,
+				"region": "Spain"
+			},
+			{
+				"code": 36,
+				"region": "Hungary"
+			},
+			{
+				"code": 39,
+				"region": "Italy"
+			},
+			{
+				"code": 40,
+				"region": "Romania"
+			},
+			{
+				"code": 41,
+				"region": "Switzerland"
+			},
+			{
+				"code": 43,
+				"region": "Austria"
+			},
+			{
+				"code": 44,
+				"region": "England"
+			},
+			{
+				"code": 45,
+				"region": "Denmark"
+			},
+			{
+				"code": 46,
+				"region": "Sweden"
+			},
+			{
+				"code": 47,
+				"region": "Norway"
+			},
+			{
+				"code": 48,
+				"region": "Poland"
+			},
+			{
+				"code": 49,
+				"region": "Germany"
+			},
+			{
+				"code": 51,
+				"region": "Peru"
+			},
+			{
+				"code": 52,
+				"region": "Mexico"
+			},
+			{
+				"code": 53,
+				"region": "Cuba"
+			},
+			{
+				"code": 54,
+				"region": "Argentina"
+			},
+			{
+				"code": 55,
+				"region": "Brazil"
+			},
+			{
+				"code": 56,
+				"region": "Chile"
+			},
+			{
+				"code": 57,
+				"region": "Columbia"
+			},
+			{
+				"code": 60,
+				"region": "Malaysia"
+			},
+			{
+				"code": 61,
+				"region": "Australian"
+			},
+			{
+				"code": 63,
+				"region": "the Philippines"
+			},
+			{
+				"code": 64,
+				"region": "New Zealand"
+			},
+			{
+				"code": 65,
+				"region": "Singapore"
+			},
+			{
+				"code": 66,
+				"region": "Thailand"
+			},
+			{
+				"code": 81,
+				"region": "Japan"
+			},
+			{
+				"code": 82,
+				"region": "Korea"
+			},
+			{
+				"code": 84,
+				"region": "Vietnamese"
+			},
+			{
+				"code": 90,
+				"region": "Turkey"
+			},
+			{
+				"code": 95,
+				"region": "Burma"
+			},
+			{
+				"code": 212,
+				"region": "Morocco"
+			},
+			{
+				"code": 213,
+				"region": "Algeria"
+			},
+			{
+				"code": 216,
+				"region": "Tunisia"
+			},
+			{
+				"code": 221,
+				"region": "Senegal"
+			},
+			{
+				"code": 222,
+				"region": "Mauritania"
+			},
+			{
+				"code": 223,
+				"region": "Mali"
+			},
+			{
+				"code": 224,
+				"region": "The Republic of Guinea"
+			},
+			{
+				"code": 225,
+				"region": "Ivory Coast"
+			},
+			{
+				"code": 226,
+				"region": "Burkina faso"
+			},
+			{
+				"code": 227,
+				"region": "The Niger"
+			},
+			{
+				"code": 228,
+				"region": "Togo"
+			},
+			{
+				"code": 229,
+				"region": "Republic of Benin"
+			},
+			{
+				"code": 230,
+				"region": "Mauritius"
+			},
+			{
+				"code": 231,
+				"region": "Liberia"
+			},
+			{
+				"code": 232,
+				"region": "Sierra leone"
+			},
+			{
+				"code": 236,
+				"region": "Central African Republic"
+			},
+			{
+				"code": 237,
+				"region": "Republic of Cameroon"
+			},
+			{
+				"code": 238,
+				"region": "Cape Verde"
+			},
+			{
+				"code": 240,
+				"region": "Equatorial Guinea"
+			},
+			{
+				"code": 242,
+				"region": "The Republic of Congo"
+			},
+			{
+				"code": 243,
+				"region": "Congo"
+			},
+			{
+				"code": 244,
+				"region": "Republic of Angola"
+			},
+			{
+				"code": 245,
+				"region": "Guinea-Bissau"
+			},
+			{
+				"code": 249,
+				"region": "South Sudan"
+			},
+			{
+				"code": 249,
+				"region": "Sudan"
+			},
+			{
+				"code": 252,
+				"region": "Somalia"
+			},
+			{
+				"code": 253,
+				"region": "Djibouti"
+			},
+			{
+				"code": 254,
+				"region": "Kenya"
+			},
+			{
+				"code": 256,
+				"region": "Uganda"
+			},
+			{
+				"code": 258,
+				"region": "Mozambique"
+			},
+			{
+				"code": 261,
+				"region": "Madagascar"
+			},
+			{
+				"code": 262,
+				"region": "Reunion"
+			},
+			{
+				"code": 264,
+				"region": "Namibia"
+			},
+			{
+				"code": 266,
+				"region": "Lesotho"
+			},
+			{
+				"code": 267,
+				"region": "Botswana"
+			},
+			{
+				"code": 268,
+				"region": "Eswatini"
+			},
+			{
+				"code": 269,
+				"region": "Comorin"
+			},
+			{
+				"code": 297,
+				"region": "Aruba"
+			},
+			{
+				"code": 298,
+				"region": "the Faroe Islands"
+			},
+			{
+				"code": 351,
+				"region": "Portugal"
+			},
+			{
+				"code": 353,
+				"region": "Ireland"
+			},
+			{
+				"code": 355,
+				"region": "Albania"
+			},
+			{
+				"code": 357,
+				"region": "The Republic of Cyprus"
+			},
+			{
+				"code": 358,
+				"region": "Finland"
+			},
+			{
+				"code": 359,
+				"region": "Bulgaria"
+			},
+			{
+				"code": 370,
+				"region": "Republic of Lithuania"
+			},
+			{
+				"code": 371,
+				"region": "Latvia"
+			},
+			{
+				"code": 372,
+				"region": "Estonia"
+			},
+			{
+				"code": 373,
+				"region": "Moldova"
+			},
+			{
+				"code": 374,
+				"region": "Armenia"
+			},
+			{
+				"code": 377,
+				"region": "Monaco"
+			},
+			{
+				"code": 380,
+				"region": "Ukraine"
+			},
+			{
+				"code": 381,
+				"region": "serbia"
+			},
+			{
+				"code": 382,
+				"region": "Montenegro"
+			},
+			{
+				"code": 385,
+				"region": "Croatia"
+			},
+			{
+				"code": 386,
+				"region": "Slovenia"
+			},
+			{
+				"code": 389,
+				"region": "North Macedonia"
+			},
+			{
+				"code": 420,
+				"region": "Czech Republic"
+			},
+			{
+				"code": 421,
+				"region": "Slovakia"
+			},
+			{
+				"code": 423,
+				"region": "Liechtenstein"
+			},
+			{
+				"code": 502,
+				"region": "Guatemala"
+			},
+			{
+				"code": 503,
+				"region": "Salvador"
+			},
+			{
+				"code": 504,
+				"region": "Honduras"
+			},
+			{
+				"code": 505,
+				"region": "Nicaragua"
+			},
+			{
+				"code": 506,
+				"region": "Republic of Costa Rica"
+			},
+			{
+				"code": 507,
+				"region": "Panama"
+			},
+			{
+				"code": 509,
+				"region": "Haiti"
+			},
+			{
+				"code": 590,
+				"region": "guadeloupe"
+			},
+			{
+				"code": 591,
+				"region": "The multi-ethnic State of Bolivia"
+			},
+			{
+				"code": 592,
+				"region": "Guyana"
+			},
+			{
+				"code": 593,
+				"region": "Ecuador"
+			},
+			{
+				"code": 594,
+				"region": "French Guiana"
+			},
+			{
+				"code": 595,
+				"region": "Paraguay"
+			},
+			{
+				"code": 596,
+				"region": "Martinique"
+			},
+			{
+				"code": 597,
+				"region": "Surinam"
+			},
+			{
+				"code": 598,
+				"region": "Uruguay"
+			},
+			{
+				"code": 599,
+				"region": "Curacao"
+			},
+			{
+				"code": 675,
+				"region": "Papua New Guinea"
+			},
+			{
+				"code": 676,
+				"region": "Tonga"
+			},
+			{
+				"code": 678,
+				"region": "Vanuatu"
+			},
+			{
+				"code": 683,
+				"region": "niue"
+			},
+			{
+				"code": 1787,
+				"region": "Puerto Rico"
+			},
+			{
+				"code": 1809,
+				"region": "Dominican Republic"
+			},
+			{
+				"code": 6723,
+				"region": "Norfolk island"
+			}
+
+		]
+	
+}
